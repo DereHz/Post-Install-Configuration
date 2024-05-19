@@ -15,14 +15,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Windows 10</b> (21H2)
 
-<h2>Post-Install Configuration Objectives</h2>
-
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
-
 <h2>Configuration Steps</h2>
 
 <img width="1682" alt="Screen Shot 2024-05-19 at 11 33 31 AM" src="https://github.com/DereHz/post-install-config/assets/169094076/c92ed798-f69c-4cff-aabf-019666231ec2">
